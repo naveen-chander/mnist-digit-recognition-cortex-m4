@@ -1,0 +1,1 @@
+"./ann.o" "./compliment2.o" "./main.o" "./my_mult.o" "./relu.o" "./tm4c123fh6pm_startup_ccs_gcc.o" -Wl,-T"../tm4c123fh6pm.lds" -Wl,--start-group -lc -lrdimon -Wl,--end-group 
